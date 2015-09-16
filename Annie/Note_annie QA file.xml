@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_06" class="java.beans.XMLDecoder"> 
+ <object class="com.collanos.workplace.ui.documents.IObjectReflectionBean"> 
+  <void property="applicationVersion"> 
+   <string>1.4.0.2</string> 
+  </void> 
+  <void property="classDescriptorFullName"> 
+   <string>com.collanos.models.standard.Note</string> 
+  </void> 
+  <void property="creatorName"> 
+   <string>Denise Bruesewitz</string> 
+  </void> 
+  <void property="documentId"> 
+   <string>Collanos Business Object</string> 
+  </void> 
+  <void property="modelName"> 
+   <string>com.collanos.models.standard</string> 
+  </void> 
+  <void property="modelProvider"> 
+   <string>Collanos Software AG</string> 
+  </void> 
+  <void property="modelVersion"> 
+   <string>1.4.0.2</string> 
+  </void> 
+  <void property="name"> 
+   <string>annie QA file</string> 
+  </void> 
+  <void property="presentationAttributes"> 
+   <void method="put"> 
+    <string></string> 
+    <string></string> 
+   </void> 
+   <void method="put"> 
+    <string>Text</string> 
+    <string>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-16&quot;?&gt;&lt;m&gt;the .xls lake annie QA file contains some errors in the dateTime column which have been corrected in the 5 .txt files&lt;/m&gt;</string> 
+   </void> 
+   <void method="put"> 
+    <string>Modified date</string> 
+    <string>Aug 26, 2009 1:32:34 AM</string> 
+   </void> 
+   <void method="put"> 
+    <string>Subject</string> 
+    <string>annie QA file</string> 
+   </void> 
+   <void method="put"> 
+    <string>Created date</string> 
+    <string>Aug 26, 2009 1:32:34 AM</string> 
+   </void> 
+   <void method="put"> 
+    <string>Id</string> 
+    <string>8ae48a3bfd4759ef00fd475e39ff0071402881c0235548800123556741c30139</string> 
+   </void> 
+   <void method="put"> 
+    <string>Create a note to post brief messages</string> 
+    <string></string> 
+   </void> 
+   <void method="put"> 
+    <string>Size</string> 
+    <string>1.7 KB</string> 
+   </void> 
+  </void> 
+  <void property="realAttributes"> 
+   <void method="put"> 
+    <string>conflictTime</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>text</string> 
+    <string>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-16&quot;?&gt;&lt;m&gt;the .xls lake annie QA file contains some errors in the dateTime column which have been corrected in the 5 .txt files&lt;/m&gt;</string> 
+   </void> 
+   <void method="put"> 
+    <string>originalFolderId</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>subject</string> 
+    <string>annie QA file</string> 
+   </void> 
+   <void method="put"> 
+    <string>modificationTime</string> 
+    <string>Wed Aug 26 01:32:34 CDT 2009</string> 
+   </void> 
+   <void method="put"> 
+    <string>isExternallyModified</string> 
+    <string>false</string> 
+   </void> 
+   <void method="put"> 
+    <string>size</string> 
+    <string>1763</string> 
+   </void> 
+   <void method="put"> 
+    <string>conflictObjectId</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>id</string> 
+    <string>8ae48a3bfd4759ef00fd475e39ff0071402881c0235548800123556741c30139</string> 
+   </void> 
+   <void method="put"> 
+    <string>conflictType</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>conflictCreatorId</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>subtitle</string> 
+    <null/> 
+   </void> 
+   <void method="put"> 
+    <string>creationTime</string> 
+    <string>Wed Aug 26 01:32:34 CDT 2009</string> 
+   </void> 
+  </void> 
+  <void property="typeName"> 
+   <string>Note</string> 
+  </void> 
+ </object> 
+</java> 
