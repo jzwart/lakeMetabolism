@@ -18,4 +18,4 @@ The input data files have to be in a particular format (including column names e
 Thanks, and enjoy!
 Chris
 
-NOTE: Some of this code has been slightly modified from the original version shown here, https://github.com/ctsolomon/lakeMetabolism  The modified code was used to generate metabolism estimates described in Zwart et al. In review. (insert DOI later).  
+NOTE: Some of this code has been slightly modified from the original version shown here, https://github.com/ctsolomon/lakeMetabolism  The modified code used to generate metabolism estimates described in Zwart et al. In review. (insert DOI later) can be found in the functions bootstrappedLM.R and bootstrappedLM_support.R. 
